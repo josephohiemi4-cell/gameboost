@@ -3,7 +3,7 @@
 **Real browser-based gaming optimizer.**  
 Join 5,000+ gamers waiting for the native Pro app.
 
-🔗 **Live Demo:** [https://josephohiemi4.github.io/gameboost](https://josephohiemi4.github.io/gameboost)
+🔗 **Live Demo:** [https://josephohiemi4-.github.io/gameboost](https://josephohiemi4-cell.github.io/gameboost)
 
 ---
 
@@ -28,7 +28,7 @@ Join 5,000+ gamers waiting for the native Pro app.
 
 ## 📬 Join the Waitlist
 
-Enter your email on the [live site](https://josephohiemi4.github.io/gameboost) to get notified when Pro drops.
+Enter your email on the [live site](https://josephohiemi4-cell.github.io/gameboost) to get notified when Pro drops.
 
 ---
 
