@@ -3,8 +3,7 @@
 **Real browser-based gaming optimizer.**  
 Join 5,000+ gamers waiting for the native Pro app.
 
-🔗 **Live Demo:** [https://josephohiemi4-cell.
-.github.io/gameboost](https://josephohiemi4-cell.github.io/gameboost)
+🔗 **Live Demo:** [https://josephohiemi4-cell.github.io/gameboost](https://josephohiemi4-cell.github.io/gameboost)
 
 ---
 
@@ -17,13 +16,16 @@ Join 5,000+ gamers waiting for the native Pro app.
 - 📊 **Live FPS Monitor** — Real-time performance tracking
 - 🌐 **Network Latency Test** — Check ping before ranked matches
 - 🔋 **Battery Monitor** — Know when to plug in
+- 💾 **Game Profiles** — Save per-game settings
 
 ### Pro App (Coming Soon)
-- Real RAM cleaning
-- Thermal throttling control
-- CPU/GPU boost
-- Auto-launch games
-- Built-in screen recorder
+- 🧹 Real RAM cleaning
+- 🌡️ Thermal throttling control
+- ⚡ CPU/GPU boost
+- 🎮 Auto-launch games
+- 📡 Network optimization
+- 📹 Built-in screen recorder
+- 🚫 No ads, ever
 
 ---
 
@@ -37,3 +39,4 @@ Enter your email on the [live site](https://josephohiemi4-cell.github.io/gameboo
 - HTML5 / CSS3 / Vanilla JS
 - [Formspree](https://formspree.io) — Email collection
 - GitHub Pages — Hosting
+- 
